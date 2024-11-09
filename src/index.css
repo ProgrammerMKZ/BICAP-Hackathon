@@ -1,0 +1,18 @@
+/* main colors*/
+:root {
+    --background-color: #b6b8ac;
+    --section-color: #f9f5e6;
+    --text-color: #29313c;
+    --orange: #ff643b;
+    --blue: #2899a0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background: var(--background-color);
+}
